@@ -9,4 +9,4 @@ print("\nMy Introduction")
 print("Name:", name)
 print("Age:", age)
 print("City:", city)
-print("Course:", course)s
+print("Course:", course)
